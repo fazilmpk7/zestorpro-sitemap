@@ -10,7 +10,7 @@ from xml.dom import minidom
 from datetime import datetime
 
 # BLOG FEED URL - you can increase max-results if needed
-BLOG_FEED_JSON = "https://zestor-pro.blogspot.com/feeds/posts/default?alt=json&max-results=500"
+BLOG_FEED_JSON = ""
 
 # Output file
 SITEMAP_FILE = "sitemap.xml"
